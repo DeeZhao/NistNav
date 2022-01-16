@@ -1,0 +1,39 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(banner.jpg) no-repeat;
+	background-size: cover;
+	
+}
+
+.login-box{
+	width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid #f3f5f3;
+
+}
+.login-left{
+	border: none;
+    outline: none;
+    background: none;
+    color:white;
+    font-size: 18px;
+    width: 80%;
+    float: left;
+    margin: 0 10px;
+}
+.register-right{
+	border: none;
+    outline: none;
+    background: none;
+    color:white;
+    font-size: 18px;
+    width: 80%;
+    float: left;
+    margin: 0 10px;
+}
